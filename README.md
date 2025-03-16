@@ -1,4 +1,4 @@
-Ce script a pour objectif de réaliser une énumération via le protocole RPC.
+Ce script est a but pédagogique uniquement. Il a pour objectif de réaliser une énumération via le protocole RPC.
 Son fonctionnement est simple :
 1. Entrer les identifiants (credentials).
 2. Entrer l'IP du serveur distant.
