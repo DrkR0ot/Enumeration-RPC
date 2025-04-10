@@ -6,9 +6,9 @@
 ---
 
 ## 📋 Fonctionnalités
-🔍 Validation des logins/mots de passe
-🌐 Joignabilité de la cible
-🖥️ Énumération des groupes de l'AD et propose de lister les utilisateurs du groupe souhaité
+- Validation des logins/mots de passe
+- Joignabilité de la cible
+- Énumération des groupes de l'AD et propose de lister les utilisateurs du groupe souhaité
 
 ---
 
