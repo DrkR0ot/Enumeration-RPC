@@ -6,13 +6,13 @@
 ---
 
 ## 📋 Fonctionnalités
-### 🔍 Validation des logins/mots de passe
-### 🌐 Joignabilité de la cible
-### 🖥️ Énumération des utilisateurs et récupération des membres de groupes souhaités
+🔍 Validation des logins/mots de passe
+🌐 Joignabilité de la cible
+🖥️ Énumération des groupes de l'AD et propose de lister les utilisateurs du groupe souhaité
 
 ---
 
 ## 🚀 Comment utiliser ?
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/DrkR0ot/Enumeration.git
+   git clone https://github.com/DrkR0ot/Enumeration-RPC.git
